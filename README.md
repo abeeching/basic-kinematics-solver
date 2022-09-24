@@ -46,5 +46,5 @@ Also, a slightly-irrelevant fun fact: I remembered that we never actually learne
 
 All in all, I can't rag on this program too much. It was the very first program in which I was given freedom to throw together some solution. Everyone's gotta start somewhere, right?
 
-**Additional Documents:
+## Additional Documents:
 The original design document submitted for the assignment: [Basic Kinematics Solver Write-up.pdf](https://github.com/abeeching/basic-kinematics-solver/files/9637864/Basic.Kinematics.Solver.Write-up.pdf)
